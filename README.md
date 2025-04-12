@@ -2,7 +2,7 @@
 
 Spotify’s music recommendation system is known for its accuracy. It suggests songs based on listening history and clusters similar audio features to identify genres and moods.
 
-In this project, we recreate a simplified version of that process using **KMeans clustering** and build a **simple AI chatbot** to suggest songs based on cluster (genre/mood).
+In this project, I recreate a simplified version of that process using **KMeans clustering** and build a **simple AI chatbot** to suggest songs based on cluster (genre/mood).
 
 ### 📌 Project Workflow
 
